@@ -1,2 +1,2 @@
 # MouseSaver
-Mouse saver is a unique app for all MacOS users
+Hello! Mouse House is an app that saves the location of your cursor if it stops moving for more than 1 second. This app can be used For anybody screen recording. this video summarizes the project https://youtu.be/vlXdUU5pd_0?si=63li2ySpYvgfusqM. the shortcut for this app is cmd+shft+m it is only tested on macOS, the app doesnt have a window so dont worry if it seems like nothing happens
